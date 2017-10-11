@@ -7,7 +7,7 @@ title: Storybook
 subtitle:
 description: 这儿有一块木板哟~
 author: 木板
-language:
+language: en
 timezone:
 
 # URL
@@ -72,11 +72,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Sylfii/sylfii.github.io.git
+  repo: git@github.com:Sylfii/Sylfii.github.io.git
   branch: master
